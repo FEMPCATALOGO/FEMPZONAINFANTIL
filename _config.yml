@@ -1,0 +1,70 @@
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+#remote_theme: minimal-mistakes-jekyll
+title: VocabulariosFEMP
+layout: single
+plugins:
+  - jekyll-include-cache  
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      
+      
+author:
+  name   : "Bicicleta"
+  avatar : "img/bicicleta.png"
+  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  links:
+    - label: "Página web"
+      icon: "fas fa-fw fa-link"
+      url: "http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
+
+
+
+#remote_theme:: minimal-mistakes-jekyll
+#remote_theme: mmistakes/minimal-mistakes
+#remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+#markdown: "kramdown"
+#remote_theme: minimal-mistakes-jekyll
+#title: VocabulariosFEMP
+#layout: simple
+
+
+
+
+#sidebar:
+#    - title: "Title"
+ #     image: http://placehold.it/350x250
+  #    image_alt: "image"
+   #   text: "Some text here."
+    #- title: "Another Title"
+     # text: "More text here."
+   #   nav: sidebar-sample
+
+#plugins:
+  #- jekyll-include-cache  
+  
+
+     
+
+
+#defaults:
+  # _pages
+ # - scope:
+  #    path: ""
+   #   type: pages
+  #  values:
+   #   layout: single
+     #   author_profile: true
