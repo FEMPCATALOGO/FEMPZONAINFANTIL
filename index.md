@@ -17,99 +17,22 @@ classes: wide
 
 &nbsp;
  
+<h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
-  
-  
-| Clasificación NTI |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Transporte | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)* *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)*  *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*   | Vocabulario para la representación de datos sobre el sistema de bicicleta pública.  | 30/04/20 | esbici | rdf+xml   html   turtle | CC-BY  | es   en   |
- 
- 
-  
-
- 
-
- 
- &nbsp;   	
- 
-<div id="todo">
-  
-<h2>  ÍNDICE </h2>
-  
-</div>
-
-1. [PROPIEDADES](#id12)
-     - [Clasificación NTI](#id1)
-     - [Estado](#id2)
-     - [Links](#id3)
-     - [Issues](#id4) 
-     - [Descripción](#id5) 
-     - [Fecha Publicación](#id6)
-     - [Prefijo](#id7)
-     - [Formatos](#id8)
-     - [Liciencia](#id9)
-     - [Idiomas](#id10) 
-2. [README de Bicicleta](#id11)
- 
- 
-<h2>  PROPIEDADES </h2> <a name="id12"></a>
-
-###  Clasificación NTI <a name="id1"></a>
-Transporte
-  
-### Estado <a name="id2"></a>
- Terminado
- 
-### Links <a name="id3"></a>
-  1. *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)*   
-  2. *[Repositorio](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica)*  
-  3. *[Requisitos](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/master/requirements/Requisitos-Bicicleta-Publica.xlsx)* 
-  4. *[Webinar](https://youtube.com/playlist?list=PLuvmjKgQP8bWHYXc-BvftMLWmPPKQJytu)*
- 
-<p float="right" align="center">
-   1. <img src="img/qr_img.png" alt="qr" width="120" /> &nbsp;&nbsp; 
-   2. <img src="img/qr_imgRepositorio.png" alt="qr" width="120"/>&nbsp;&nbsp;
-   3. <img src="img/qr_imgRequisitos.png" alt="qr" width="120" />&nbsp;&nbsp; 
-   4. <img src="img/qr_imgWebinar.png" alt="qr" width="120" />&nbsp;&nbsp; 
+<p float="right" align="center">   
+<img src="img/constrA.png" alt="Construction" width="200"/>
 </p>
+
+&nbsp; &nbsp;
+  
+  
+|Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
+|   |   |    |   |    |    |    |     |     |       |
  
-### Issues <a name="id4"></a>
- *[Generar issue](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/issues)*  
+  
+
  
- &nbsp; 
- <!-- <img src="img/qr_imgIssues.png" alt="qr" width="150"> -->
-
-### Descripción <a name="id5"></a>
-Vocabulario para la representación de datos sobre el sistema de bicicleta pública.
-
-### Fecha Publicación  <a name="id6"></a>
-30/04/20 
-
-### Prefijo  <a name="id7"></a>
-esbici
-
-### Formatos <a name="id8"></a>
-- rdf+xml   
-- html   
-- turtle
-
-### Liciencia <a name="id9"></a>
-CC-BY
-
-### Idiomas <a name="id10"></a>
-- es   
-- en 
-
-
-<h2>  README  </h2> <a name="id11"></a>
-
-*[README del vocabulario de Bicicleta](https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica/blob/c8ef0162fb2b71e610627b19abadb89996e2af9d/README.md)*   
-
-  <img src="img/qr_imgREADME.png" alt="qr" width="120" />
-
-
-&nbsp;
----
 &nbsp;
 
 
@@ -129,23 +52,3 @@ CC-BY
 </p>
 
 
-
-
-
-
-<!--
-Más opciones:
- Recursos -> Estaciones, tiempo real, itinerarios, usuarios, usos
- Comentarios
- Valor de reutilización
- Complejidad
- Transoarencia
- Campos mínimos
- Tamaño de ciudad
- Frecuencua de actaulización mínima
- Afectado por normativa de protección de datos
- Histórico: forma de presentarlo
------------------
- el estado actual, links al repo en GitHub, links al roadmap, la posibilidad de subir issues, etc. Algo parecido a lo que solemos publicar en sitios como vocab.ciudadesabiertas.es, en vocab.linkeddata.es/datosabiertos/ o en sitios como w3id.org/devops-infra.
- -->
- 
