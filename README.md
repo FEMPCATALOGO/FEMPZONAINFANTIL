@@ -1,4 +1,3 @@
-
 <div id="bodyid">
 <link href="stylesheet.css" rel="stylesheet"/>
 
@@ -20,7 +19,7 @@
   
 |Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-|   |   |    |   |    |    |    |     |     |       |
+| Cultura y ocio  |  Innexistente |  *[Repositorio](https://github.com/opencitydata/vocab-cultura-ocio-zonasInfantiles-zonasMayores)*  |  *[Issues](https://github.com/opencitydata/vocab-cultura-ocio-zonasInfantiles-zonasMayores/issues)*  |  Zonas, parques o áreas infantiles y de mayores.  |    |    |     |     |       |
  
   
 
