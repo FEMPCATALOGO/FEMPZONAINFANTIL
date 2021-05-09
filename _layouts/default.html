@@ -12,6 +12,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -31,7 +32,25 @@
 
     <div id="footer" class="page__footer">
       <footer>
-        <a href="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales">DATOS ABIERTOS FEMP</a>
+      
+       <a href="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales">DATOS ABIERTOS FEMP</a>     
+             <br>
+        <i class="fa fa-creative-commons" aria-hidden="true"></i> <a href="https://docs.google.com/document/d/1FfWJP6wjsKchWTzrzL4KkjasgJaMUlRhbhP_jKsUNVU/edit?usp=sharing">ICONOS </a>
+     
+      <p float="right" align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FEMP_%28logotipo%29.svg/590px-FEMP_%28logotipo%29.svg.png" alt="Logo FEMP" height="100" width="100"/>
+ <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="150"/>
+ <img src="https://ciudadesabiertas.es/assets/img/cabiertas/unionEuropea-logo.svg" alt="Logo UnionEuropea" width="200"/>
+</p>
+
+<p float="right" align="center">   
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntAcoruna-logo.svg" alt="Logo AyuntACoruña" width="200"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntMadrid-logo.svg" alt="Logo Madrid" width="100"/>  
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntSantiagoCompostela-logo.svg" alt="Logo Concello Santiago" width="200"/>
+<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ayuntZaragoza-logo.svg" alt="Logo Ayun.Zaragoza" width="200"/>
+</p>
+      
       </footer>
     </div>
 
