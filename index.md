@@ -16,6 +16,7 @@ classes: wide
 	<li class="current"><a href="https://fempcatalogo.github.io/FEMPTFG/" data-hover="Vocabularios FEMP">Vocabularios FEMP</a></li>
 	<li class="left"><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
 	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
+	<li class="left"><a href="https://github.com/opencitydata/vocab-cultura-ocio-zonasInfantiles-zonasMayores/blob/main/README.md" data-hover="README">README</a>
 </ul>
 	</nav>
 	<br><br>
